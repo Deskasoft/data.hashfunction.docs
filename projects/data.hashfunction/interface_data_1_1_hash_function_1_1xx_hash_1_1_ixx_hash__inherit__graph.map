@@ -1,0 +1,9 @@
+<map id="Data.HashFunction.xxHash.IxxHash" name="Data.HashFunction.xxHash.IxxHash">
+<area shape="rect" id="Node000001" title="Implements xxHash as specified at https://github.com/Cyan4973/xxHash/blob/dev/xxhash...." alt="" coords="12,155,200,197"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1xx_hash_1_1xx_hash___implementation.html" title=" " alt="" coords="5,245,207,288"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="109,213,109,245,103,245,103,213"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_i_streamable_hash_function.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="20,80,192,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,122,109,154,103,154,103,122"/>
+<area shape="rect" id="Node000003" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="53,5,159,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,48,109,80,103,80,103,48"/>
+</map>

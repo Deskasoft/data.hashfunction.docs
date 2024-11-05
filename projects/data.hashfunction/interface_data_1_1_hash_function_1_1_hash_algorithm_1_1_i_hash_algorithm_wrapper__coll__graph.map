@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.HashAlgorithm.IHashAlgorithmWrapper" name="Data.HashFunction.HashAlgorithm.IHashAlgorithmWrapper">
+<area shape="rect" id="Node000001" title="Implementation of IHashFunction that wraps cryptographic hash functions known as System...." alt="" coords="5,80,234,123"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="66,5,173,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,48,122,80,117,80,117,48"/>
+</map>

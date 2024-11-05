@@ -1,0 +1,23 @@
+<map id="Data.HashFunction.Core.BlockTransformerBase&lt; TSelf &gt;" name="Data.HashFunction.Core.BlockTransformerBase&lt; TSelf &gt;">
+<area shape="rect" id="Node000001" title="Base implementation for an internal state of an iteratively computable hash function value." alt="" coords="182,220,385,263"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_f_n_v_1_1_f_n_v1_base_1_1_block_transformer__32_bit_base.html" title=" " alt="" coords="433,88,658,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="343,211,481,145,483,150,345,215"/>
+<area shape="rect" id="Node000006" href="$class_data_1_1_hash_function_1_1_f_n_v_1_1_f_n_v1_base_1_1_block_transformer__64_bit_base.html" title=" " alt="" coords="433,212,658,271"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="401,239,432,239,432,244,401,244"/>
+<area shape="rect" id="Node000009" href="$class_data_1_1_hash_function_1_1_f_n_v_1_1_f_n_v1_base_1_1_block_transformer___extended_base.html" title=" " alt="" coords="436,336,656,395"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="345,267,483,333,481,338,343,272"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_i_block_transformer.html" title="An internal state of an iteratively computable hash function value." alt="" coords="5,228,134,255"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,239,181,239,181,244,150,244"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1_f_n_v_1_1_f_n_v1___implementation_1_1_block_transformer__32_bit.html" title=" " alt="" coords="730,5,955,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="667,81,734,62,735,67,669,86"/>
+<area shape="rect" id="Node000005" href="$class_data_1_1_hash_function_1_1_f_n_v_1_1_f_n_v1a___implementation_1_1_block_transformer__32_bit.html" title=" " alt="" coords="730,88,955,147"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="674,115,730,115,730,120,674,120"/>
+<area shape="rect" id="Node000007" href="$class_data_1_1_hash_function_1_1_f_n_v_1_1_f_n_v1___implementation_1_1_block_transformer__64_bit.html" title=" " alt="" coords="730,171,955,229"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="673,221,730,213,730,218,674,226"/>
+<area shape="rect" id="Node000008" href="$class_data_1_1_hash_function_1_1_f_n_v_1_1_f_n_v1a___implementation_1_1_block_transformer__64_bit.html" title=" " alt="" coords="730,253,955,312"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="674,256,730,264,730,270,673,262"/>
+<area shape="rect" id="Node000010" href="$class_data_1_1_hash_function_1_1_f_n_v_1_1_f_n_v1___implementation_1_1_block_transformer___extended.html" title=" " alt="" coords="706,336,979,395"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="671,363,706,363,706,368,671,368"/>
+<area shape="rect" id="Node000011" href="$class_data_1_1_hash_function_1_1_f_n_v_1_1_f_n_v1a___implementation_1_1_block_transformer___extended.html" title=" " alt="" coords="706,419,979,477"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="669,397,735,415,734,421,667,402"/>
+</map>

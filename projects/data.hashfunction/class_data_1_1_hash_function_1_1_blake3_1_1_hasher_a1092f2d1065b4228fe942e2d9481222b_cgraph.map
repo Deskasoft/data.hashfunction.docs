@@ -1,0 +1,33 @@
+<map id="Data.HashFunction.Blake3.Hasher.Hasher" name="Data.HashFunction.Blake3.Hasher.Hasher">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,512,188,555"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#aeddb6fe433bf75e5aba4e67e629f092f" title=" " alt="" coords="276,5,458,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,512,97,428,103,370,114,306,131,239,155,173,189,112,234,58,260,40,263,45,237,62,194,115,160,175,136,241,119,307,108,370,102,428,100,512"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#a266c90d1583949e5699abdfbfc193992" title=" " alt="" coords="276,72,458,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="96,511,102,437,122,333,139,277,163,221,194,170,234,125,260,108,263,112,237,129,199,173,168,224,144,279,127,335,107,438,101,512"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#a9f5c8238bb1b8c8b5dd827d8c266f0da" title=" " alt="" coords="276,139,458,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="98,511,110,451,134,370,152,326,174,283,201,243,234,207,260,190,263,194,237,211,205,246,179,286,157,328,139,372,115,453,103,512"/>
+<area shape="rect" id="Node000005" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#a68a9b9baa0249779cf6c6b5fcc0a0e34" title=" " alt="" coords="276,221,458,280"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="102,510,118,465,145,405,184,343,207,315,234,290,260,274,263,278,237,294,211,319,188,347,150,408,123,467,107,512"/>
+<area shape="rect" id="Node000006" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#a5c6e2e883f5f699bb3f1c5efd6329e86" title=" " alt="" coords="276,304,458,347"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="106,511,126,476,155,435,191,392,234,356,260,343,262,348,237,361,195,396,159,438,131,479,111,513"/>
+<area shape="rect" id="Node000007" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#ad33b25786ed25911a0e2243e184a01f6" title=" " alt="" coords="249,371,484,413"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="118,509,169,466,200,443,234,423,248,417,250,422,237,428,203,447,172,470,121,513"/>
+<area shape="rect" id="Node000008" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#aea989aefa014224e8779949750fd6ef4" title=" " alt="" coords="276,437,458,480"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="168,509,235,489,263,482,264,487,236,495,170,514"/>
+<area shape="rect" id="Node000009" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#a5e0bd3fc3b1f1d2230083edd06082e33" title=" " alt="" coords="276,504,458,563"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="188,531,260,531,260,536,188,536"/>
+<area shape="rect" id="Node000010" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#a4a8335b7fd73916b8690f34ba00d2fa9" title=" " alt="" coords="266,587,468,629"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="170,553,236,572,264,580,263,585,235,577,168,558"/>
+<area shape="rect" id="Node000011" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#afeaea0d86f16edce6ae92fdb28dd50e3" title=" " alt="" coords="276,653,458,696"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="121,553,172,597,203,620,237,639,262,649,259,654,234,644,200,624,169,601,118,557"/>
+<area shape="rect" id="Node000012" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#a82c48fb54de5c6bbcacd3ffb1e2ff6d4" title=" " alt="" coords="276,720,458,763"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="111,553,131,587,159,629,195,671,237,706,262,719,260,724,234,710,191,674,155,632,126,590,106,556"/>
+<area shape="rect" id="Node000013" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#a8b052a85097b1bada787fec22e9a1fdc" title=" " alt="" coords="244,787,490,829"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="106,554,122,600,149,660,187,721,211,749,237,773,243,776,240,781,234,777,207,752,183,724,144,662,117,602,101,556"/>
+<area shape="rect" id="Node000014" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#af985f5e3c88cb27d88076cc470528c42" title=" " alt="" coords="260,853,474,896"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="104,555,116,612,140,689,157,730,179,770,206,807,237,839,248,847,245,851,234,843,202,811,175,773,153,733,135,691,110,613,98,556"/>
+<area shape="rect" id="Node000015" href="$class_data_1_1_hash_function_1_1_core_1_1_library_loader_1_1_native_library_loader.html#ae7fc8592b9e709e52367e2af00e56328" title="Initializes a new instance of NativeLibraryLoader with the given library &#160;parameter." alt="" coords="261,920,473,963"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="102,555,110,623,131,718,149,769,172,819,201,866,237,906,249,915,245,919,234,910,197,869,167,822,144,771,126,719,105,624,96,555"/>
+<area shape="rect" id="Node000016" href="$class_data_1_1_hash_function_1_1_core_1_1_library_loader_1_1_native_library_loader.html#ae43e52670bcb4804edc00b9d59e171f8" title="Tries to load a function with the given name." alt="" coords="236,987,498,1029"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="100,555,105,634,111,687,123,747,140,808,164,868,196,924,238,973,240,975,236,979,234,977,192,927,159,870,135,809,118,748,106,688,99,634,95,555"/>
+</map>

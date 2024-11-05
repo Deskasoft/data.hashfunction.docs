@@ -1,0 +1,7 @@
+<map id="Data.HashFunction.Core.BlockTransformerBase.FinalizeHashValue" name="Data.HashFunction.Core.BlockTransformerBase.FinalizeHashValue">
+<area shape="rect" id="Node000001" title="Completes any finalization processing and returns the resulting IHashValue." alt="" coords="5,51,239,93"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_block_transformer_base.html#a30a843fac118977bed0d574f31cbe219" title="Completes any finalization processing and returns the resulting IHashValue." alt="" coords="287,5,520,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,54,271,50,271,55,239,59"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_core_1_1_block_transformer_base.html#a3d42a87ab0ff6fd9c78e1abee18d3f75" title="Throws an InvalidOperationException if this transformer is marked as being corrupted." alt="" coords="290,88,516,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,85,275,90,274,95,239,90"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Data.HashFunction.CityHash.CityHash_Implementation" name="Data.HashFunction.CityHash.CityHash_Implementation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="38,155,236,197"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_hash_function_base.html" title="Abstract implementation of an IHashFunction. Provides convenience checks and ensures a default HashSi..." alt="" coords="5,80,138,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,117,122,153,118,156,89,121"/>
+<area shape="rect" id="Node000003" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="84,5,190,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,45,85,81,81,78,113,42"/>
+<area shape="rect" id="Node000004" href="$interface_data_1_1_hash_function_1_1_city_hash_1_1_i_city_hash.html" title="Implementation of CityHash as specified at https://code.google.com/p/cityhash/." alt="" coords="162,80,242,107"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="160,42,193,78,189,81,156,45"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,121,155,156,151,153,180,117"/>
+</map>

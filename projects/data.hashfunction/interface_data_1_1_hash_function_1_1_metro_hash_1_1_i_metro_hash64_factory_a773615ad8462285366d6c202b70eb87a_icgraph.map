@@ -1,0 +1,7 @@
+<map id="Data.HashFunction.MetroHash.IMetroHash64Factory.Create" name="Data.HashFunction.MetroHash.IMetroHash64Factory.Create">
+<area shape="rect" id="Node000001" title="Creates a new IMetroHash64 instance with the default configuration." alt="" coords="254,71,460,113"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_test_1_1_metro_hash_1_1_metro_hash64_factory___tests.html#a244e4766b80d51464b398c3f2d69fdcd" title=" " alt="" coords="5,5,206,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,71,206,65,207,60,239,66"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_test_1_1_metro_hash_1_1_metro_hash64_factory___tests.html#a7d8868f5f1a69bb99f862f83bf70c086" title=" " alt="" coords="5,104,206,179"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,118,207,124,206,119,238,113"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Data.HashFunction.xxHash.IxxHashFactory.Create" name="Data.HashFunction.xxHash.IxxHashFactory.Create">
+<area shape="rect" id="Node000001" title="Creates a new IxxHash instance with the default configuration." alt="" coords="287,55,474,97"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_test_1_1xx_hash_1_1xx_hash_factory___tests.html#a6521e6c240112e23ed3c7399b2c745e7" title=" " alt="" coords="5,5,239,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="271,61,239,56,240,51,272,56"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_test_1_1xx_hash_1_1xx_hash_factory___tests.html#a898b8675ceef67e21ef3f5caf7633424" title=" " alt="" coords="5,88,239,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="272,96,240,101,239,96,271,91"/>
+</map>

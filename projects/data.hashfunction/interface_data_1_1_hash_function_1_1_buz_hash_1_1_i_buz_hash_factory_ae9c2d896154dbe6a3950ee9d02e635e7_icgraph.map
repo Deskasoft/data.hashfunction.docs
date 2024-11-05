@@ -1,0 +1,7 @@
+<map id="Data.HashFunction.BuzHash.IBuzHashFactory.Create" name="Data.HashFunction.BuzHash.IBuzHashFactory.Create">
+<area shape="rect" id="Node000001" title="Creates a new IBuzHash instance with the default configuration." alt="" coords="305,55,501,97"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_test_1_1_buz_hash_1_1_buz_hash_factory___tests.html#ac6caedd53deaa3d8408c9be6253e9b6f" title=" " alt="" coords="5,5,257,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="289,61,257,56,257,51,290,56"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_test_1_1_buz_hash_1_1_buz_hash_factory___tests.html#a52bc63ac5f831ba123cf7495fe612867" title=" " alt="" coords="5,88,257,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="290,96,257,101,257,96,289,91"/>
+</map>

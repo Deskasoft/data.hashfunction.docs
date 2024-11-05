@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.Core.StreamableHashFunctionBase.ComputeHashInternal" name="Data.HashFunction.Core.StreamableHashFunctionBase.ComputeHashInternal">
+<area shape="rect" id="Node000001" title="Computes hash value for given stream." alt="" coords="5,5,269,48"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_streamable_hash_function_base.html#a2a14cf0e361c06eb3551f6593132e9ce" title="Creates a new transformer that will process data and hold the internal state using this hash function..." alt="" coords="317,5,595,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,24,301,24,301,29,269,29"/>
+</map>

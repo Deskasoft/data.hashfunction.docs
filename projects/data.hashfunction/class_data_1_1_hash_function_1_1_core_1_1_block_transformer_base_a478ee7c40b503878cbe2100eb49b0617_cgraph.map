@@ -1,0 +1,7 @@
+<map id="Data.HashFunction.Core.BlockTransformerBase.Clone" name="Data.HashFunction.Core.BlockTransformerBase.Clone">
+<area shape="rect" id="Node000001" title="Clones this transformer&#39;s internal state to a new, unassociated instance of this transformer." alt="" coords="5,39,209,81"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_block_transformer_base.html#abc56cc95376f774c0feadd81ad424348" title="Copies the internal state of the current instance to the provided instance." alt="" coords="268,5,472,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,44,252,39,253,44,210,50"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_core_1_1_block_transformer_base.html#a3d42a87ab0ff6fd9c78e1abee18d3f75" title="Throws an InvalidOperationException if this transformer is marked as being corrupted." alt="" coords="257,72,483,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,70,242,74,241,80,209,76"/>
+</map>

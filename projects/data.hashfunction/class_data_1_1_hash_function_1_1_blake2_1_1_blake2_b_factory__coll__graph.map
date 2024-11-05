@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.Blake2.Blake2BFactory" name="Data.HashFunction.Blake2.Blake2BFactory">
+<area shape="rect" id="Node000001" title="Provides instances of implementations of IBlake2B." alt="" coords="5,80,188,123"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_blake2_1_1_i_blake2_b_factory.html" title="Provides instances of implementations of IBlake2B." alt="" coords="37,5,156,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,48,99,80,94,80,94,48"/>
+</map>

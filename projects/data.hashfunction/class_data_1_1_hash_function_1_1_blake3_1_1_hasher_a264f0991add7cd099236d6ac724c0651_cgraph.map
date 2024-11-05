@@ -1,0 +1,7 @@
+<map id="Data.HashFunction.Blake3.Hasher.Finalize" name="Data.HashFunction.Blake3.Hasher.Finalize">
+<area shape="rect" id="Node000001" title="Finalize the hash state to the output span, which can supply any number of output bytes." alt="" coords="5,5,188,48"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#a1b50103a85a849d2ada29e7cb69d1047" title="Finalize the hash state to the output span, which can supply any number of output bytes." alt="" coords="236,5,418,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,24,220,24,220,29,188,29"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#a5be05c84768dbde3d86ebfda4ef20bc6" title=" " alt="" coords="466,5,710,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="419,24,450,24,450,29,419,29"/>
+</map>

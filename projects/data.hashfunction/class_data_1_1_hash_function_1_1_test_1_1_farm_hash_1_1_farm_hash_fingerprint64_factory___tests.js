@@ -1,0 +1,5 @@
+var class_data_1_1_hash_function_1_1_test_1_1_farm_hash_1_1_farm_hash_fingerprint64_factory___tests =
+[
+    [ "FarmHashFingerprint64Factory_Create_Works", "class_data_1_1_hash_function_1_1_test_1_1_farm_hash_1_1_farm_hash_fingerprint64_factory___tests.html#a23e16d68eb43ef38da59e98bd8ba0db8", null ],
+    [ "FarmHashFingerprint64Factory_Instance_IsDefined", "class_data_1_1_hash_function_1_1_test_1_1_farm_hash_1_1_farm_hash_fingerprint64_factory___tests.html#a5ec277bfac313f3b824bcefa09d97260", null ]
+];

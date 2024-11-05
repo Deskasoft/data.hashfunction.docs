@@ -1,0 +1,10 @@
+<map id="Data.HashFunction.FarmHash.FarmHashFingerprint32_Implementation" name="Data.HashFunction.FarmHash.FarmHashFingerprint32_Implementation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="30,155,284,197"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_hash_function_base.html" title="Abstract implementation of an IHashFunction. Provides convenience checks and ensures a default HashSi..." alt="" coords="5,80,138,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,115,137,152,133,156,94,119"/>
+<area shape="rect" id="Node000003" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="104,5,210,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,44,88,82,84,78,129,40"/>
+<area shape="rect" id="Node000004" href="$interface_data_1_1_hash_function_1_1_farm_hash_1_1_i_farm_hash_fingerprint32.html" title="Implementation of FarmHash&#39;s Fingerprint32 method as specified at https://github.com/google/farmhash." alt="" coords="162,80,323,107"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="185,40,229,78,226,82,181,44"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="220,119,181,156,177,152,216,115"/>
+</map>

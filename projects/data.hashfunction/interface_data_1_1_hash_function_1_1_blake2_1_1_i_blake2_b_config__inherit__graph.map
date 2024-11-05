@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.Blake2.IBlake2BConfig" name="Data.HashFunction.Blake2.IBlake2BConfig">
+<area shape="rect" id="Node000001" title="Defines a configuration for a IBlake2B implementation." alt="" coords="5,5,188,48"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_blake2_1_1_blake2_b_config.html" title="Defines a configuration for a Blake2B hash function implementation." alt="" coords="5,96,188,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,64,99,96,94,96,94,64"/>
+</map>

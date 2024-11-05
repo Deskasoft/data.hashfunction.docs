@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.Test._Mocks.SlowAsyncStream" name="Data.HashFunction.Test._Mocks.SlowAsyncStream">
+<area shape="rect" id="Node000001" title="Forces async functions to actually run asynchronously by delaying the read." alt="" coords="5,80,185,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="63,5,127,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,48,98,80,92,80,92,48"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Data.HashFunction.FNV.IFNV1Factory.Create" name="Data.HashFunction.FNV.IFNV1Factory.Create">
+<area shape="rect" id="Node000001" title="Creates a new IFNV1 instance with the default configuration." alt="" coords="274,55,480,97"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_test_1_1_f_n_v_1_1_f_n_v1_factory___tests.html#a5e6108a4c353c6f5f41943ee321242d3" title=" " alt="" coords="5,5,226,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,60,226,55,226,49,259,55"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_test_1_1_f_n_v_1_1_f_n_v1_factory___tests.html#aec801218cf096ed9784b79174de2cd2f" title=" " alt="" coords="5,88,226,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="259,97,226,103,226,97,258,92"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.Blake3.IBlake3Factory.Create" name="Data.HashFunction.Blake3.IBlake3Factory.Create">
+<area shape="rect" id="Node000001" title="Creates a new IBlake3 instance with the default configuration." alt="" coords="284,13,466,56"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_test_1_1_blake3_1_1_blake3_factory___tests.html#a2bb02bf56c8d1980d4bd0e6cdc05d812" title=" " alt="" coords="5,5,236,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,37,236,37,236,32,268,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,13,89,40"/>
+<area shape="rect" id="Node000001" href="$interface_data_1_1_hash_function_1_1_i_hash_value.html" title="Common interface to represent a hash value." alt="" coords="137,13,342,40"/>
+<area shape="poly" id="edge294_Node000000_Node000001" title=" " alt="" coords="104,24,136,24,136,29,104,29"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_utilities_1_1_hash_value.html" title="Implementation of IHashValue" alt="" coords="390,5,608,48"/>
+<area shape="poly" id="edge295_Node000001_Node000002" title=" " alt="" coords="357,24,390,24,390,29,357,29"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.Blake3.Hasher.UpdateWithJoin&lt; T &gt;" name="Data.HashFunction.Blake3.Hasher.UpdateWithJoin&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Add input data span to the hash state, as with update, but potentially using multi&#45;threading." alt="" coords="5,5,197,48"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#a5be05c84768dbde3d86ebfda4ef20bc6" title=" " alt="" coords="245,5,489,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,24,229,24,229,29,197,29"/>
+</map>

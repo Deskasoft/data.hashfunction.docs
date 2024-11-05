@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.IStreamableHashFunction" name="Data.HashFunction.IStreamableHashFunction">
+<area shape="rect" id="Node000001" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="5,80,214,123"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="56,5,163,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,48,112,80,107,80,107,48"/>
+</map>

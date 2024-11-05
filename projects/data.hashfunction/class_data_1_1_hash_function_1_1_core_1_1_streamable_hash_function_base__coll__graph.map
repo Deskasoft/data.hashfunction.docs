@@ -1,0 +1,10 @@
+<map id="Data.HashFunction.Core.StreamableHashFunctionBase" name="Data.HashFunction.Core.StreamableHashFunctionBase">
+<area shape="rect" id="Node000001" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="41,155,278,197"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_hash_function_base.html" title="Abstract implementation of an IHashFunction. Provides convenience checks and ensures a default HashSi..." alt="" coords="5,80,138,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,115,139,152,135,156,95,119"/>
+<area shape="rect" id="Node000003" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="106,5,213,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,44,88,82,85,78,131,40"/>
+<area shape="rect" id="Node000004" href="$interface_data_1_1_hash_function_1_1_i_streamable_hash_function.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="161,80,334,107"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="188,40,234,78,231,82,185,44"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="224,119,184,156,180,152,221,115"/>
+</map>

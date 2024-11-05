@@ -1,0 +1,27 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_data_1_1_hash_function_1_1_core_1_1_block_transformer_base.html" title=" " alt="" coords="5,420,254,463"/>
+<area shape="rect" id="Node000001" href="$class_data_1_1_hash_function_1_1_bernstein_hash_1_1_bernstein_hash___implementation_1_1_block_transformer.html" title=" " alt="" coords="317,5,560,64"/>
+<area shape="poly" id="edge12_Node000000_Node000001" title=" " alt="" coords="135,404,153,334,184,245,206,199,232,153,264,111,300,74,316,62,319,66,303,78,268,115,237,156,211,201,189,247,158,336,140,405"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_bernstein_hash_1_1_modified_bernstein_hash___implementation_1_1_block_transformer.html" title=" " alt="" coords="326,88,550,147"/>
+<area shape="poly" id="edge13_Node000000_Node000002" title=" " alt="" coords="140,404,163,350,196,283,242,215,270,184,300,157,324,141,327,146,303,161,273,188,246,218,201,286,167,352,145,406"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_blake2_1_1_blake2_b___implementation_1_1_block_transformer.html" title=" " alt="" coords="302,171,575,213"/>
+<area shape="poly" id="edge14_Node000000_Node000003" title=" " alt="" coords="146,405,171,363,206,313,249,264,300,223,322,212,324,216,303,228,253,268,210,317,176,366,151,408"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1_c_r_c_1_1_c_r_c___implementation_1_1_block_transformer.html" title=" " alt="" coords="326,237,550,280"/>
+<area shape="poly" id="edge15_Node000000_Node000004" title=" " alt="" coords="158,406,219,346,258,316,300,290,327,278,329,283,303,294,261,320,223,350,162,410"/>
+<area shape="rect" id="Node000005" href="$class_data_1_1_hash_function_1_1_e_l_f64_1_1_e_l_f64___implementation_1_1_block_transformer.html" title=" " alt="" coords="307,304,570,347"/>
+<area shape="poly" id="edge16_Node000000_Node000005" title=" " alt="" coords="183,410,239,382,301,356,337,345,338,350,303,361,241,387,185,415"/>
+<area shape="rect" id="Node000006" href="$class_data_1_1_hash_function_1_1_jenkins_1_1_jenkins_lookup2___implementation_1_1_block_transformer.html" title=" " alt="" coords="331,371,546,429"/>
+<area shape="poly" id="edge17_Node000000_Node000006" title=" " alt="" coords="269,420,330,412,331,417,269,425"/>
+<area shape="rect" id="Node000007" href="$class_data_1_1_hash_function_1_1_jenkins_1_1_jenkins_one_at_a_time___implementation_1_1_block_transformer.html" title=" " alt="" coords="318,453,558,512"/>
+<area shape="poly" id="edge18_Node000000_Node000007" title=" " alt="" coords="269,457,318,464,317,469,269,463"/>
+<area shape="rect" id="Node000008" href="$class_data_1_1_hash_function_1_1_metro_hash_1_1_metro_hash128___implementation_1_1_block_transformer.html" title=" " alt="" coords="319,536,558,595"/>
+<area shape="poly" id="edge19_Node000000_Node000008" title=" " alt="" coords="186,468,303,522,334,533,332,538,301,526,184,473"/>
+<area shape="rect" id="Node000009" href="$class_data_1_1_hash_function_1_1_metro_hash_1_1_metro_hash64___implementation_1_1_block_transformer.html" title=" " alt="" coords="322,619,554,677"/>
+<area shape="poly" id="edge20_Node000000_Node000009" title=" " alt="" coords="159,473,220,540,260,574,303,604,325,616,323,620,300,609,257,579,217,543,155,476"/>
+<area shape="rect" id="Node000010" href="$class_data_1_1_hash_function_1_1_pearson_1_1_pearson___implementation_1_1_block_transformer.html" title=" " alt="" coords="302,701,574,744"/>
+<area shape="poly" id="edge21_Node000000_Node000010" title=" " alt="" coords="148,476,171,524,205,582,249,639,275,665,303,687,323,698,320,703,300,692,272,669,245,643,201,585,167,527,143,478"/>
+<area shape="rect" id="Node000011" href="$class_data_1_1_hash_function_1_1_spooky_hash_1_1_spooky_hash_v1___implementation_1_1_block_transformer.html" title=" " alt="" coords="315,768,562,827"/>
+<area shape="poly" id="edge22_Node000000_Node000011" title=" " alt="" coords="143,477,164,537,196,612,243,689,271,723,303,754,320,765,317,770,300,758,267,727,238,692,192,614,159,539,138,478"/>
+<area shape="rect" id="Node000012" href="$class_data_1_1_hash_function_1_1_spooky_hash_1_1_spooky_hash_v2___implementation_1_1_block_transformer.html" title=" " alt="" coords="315,851,562,909"/>
+<area shape="poly" id="edge23_Node000000_Node000012" title=" " alt="" coords="139,478,155,553,185,650,207,700,233,750,265,796,303,837,319,848,315,852,300,841,261,800,229,753,202,703,180,651,149,554,134,479"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Data.HashFunction.Pearson.IPearsonFactory.Create" name="Data.HashFunction.Pearson.IPearsonFactory.Create">
+<area shape="rect" id="Node000001" title="Creates a new IPearson instance with the default configuration." alt="" coords="302,55,492,97"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_test_1_1_pearson_1_1_pearson_factory___tests.html#adb989edd742a5d933e6535664705eca6" title=" " alt="" coords="5,5,254,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="286,62,253,57,254,51,287,56"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_test_1_1_pearson_1_1_pearson_factory___tests.html#a60a20ff35662482ac7ccac9151a059e1" title=" " alt="" coords="5,88,254,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="287,96,254,101,253,95,286,90"/>
+</map>

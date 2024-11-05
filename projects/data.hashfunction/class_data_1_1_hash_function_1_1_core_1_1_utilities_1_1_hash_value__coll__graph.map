@@ -1,0 +1,7 @@
+<map id="Data.HashFunction.Core.Utilities.HashValue" name="Data.HashFunction.Core.Utilities.HashValue">
+<area shape="rect" id="Node000001" title="Implementation of IHashValue" alt="" coords="5,155,224,197"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_i_hash_value.html" title="Common interface to represent a hash value." alt="" coords="70,80,159,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,122,117,154,112,154,112,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="27,5,202,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,48,117,80,112,80,112,48"/>
+</map>

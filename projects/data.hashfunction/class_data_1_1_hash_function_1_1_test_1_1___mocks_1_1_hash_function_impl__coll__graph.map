@@ -1,0 +1,7 @@
+<map id="Data.HashFunction.Test._Mocks.HashFunctionImpl" name="Data.HashFunction.Test._Mocks.HashFunctionImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,155,183,197"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_hash_function_base.html" title="Abstract implementation of an IHashFunction. Provides convenience checks and ensures a default HashSi..." alt="" coords="28,80,160,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,122,97,154,91,154,91,122"/>
+<area shape="rect" id="Node000003" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="41,5,147,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,48,97,80,91,80,91,48"/>
+</map>

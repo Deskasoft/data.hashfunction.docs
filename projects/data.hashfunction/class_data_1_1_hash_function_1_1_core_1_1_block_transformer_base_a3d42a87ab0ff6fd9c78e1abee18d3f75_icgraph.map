@@ -1,0 +1,11 @@
+<map id="Data.HashFunction.Core.BlockTransformerBase.ThrowIfCorrupted" name="Data.HashFunction.Core.BlockTransformerBase.ThrowIfCorrupted">
+<area shape="rect" id="Node000001" title="Throws an InvalidOperationException if this transformer is marked as being corrupted." alt="" coords="287,105,513,148"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_block_transformer_base.html#a478ee7c40b503878cbe2100eb49b0617" title="Clones this transformer&#39;s internal state to a new, unassociated instance of this transformer." alt="" coords="20,5,224,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="335,101,238,63,203,51,205,46,240,57,337,96"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_core_1_1_block_transformer_base.html#ac8846ba3bdadaa7c16b943dfc467c3e1" title="Completes any finalization processing and returns the resulting IHashValue." alt="" coords="5,72,239,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="271,114,239,110,240,105,272,109"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1_core_1_1_block_transformer_base.html#ad0623fbb3dbab6fa0fa8526f8019d704" title="Updates the internal state of this transformer with the given data." alt="" coords="13,139,231,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="272,145,232,150,231,144,271,139"/>
+<area shape="rect" id="Node000005" href="$class_data_1_1_hash_function_1_1_core_1_1_block_transformer_base.html#a40e6624bb6c6355e78ed1188e8444ff1" title="Updates the internal state of this transformer with the given data." alt="" coords="13,205,231,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="337,157,240,196,205,207,203,202,238,191,335,152"/>
+</map>

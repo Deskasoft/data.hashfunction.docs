@@ -1,0 +1,11 @@
+<map id="Data.HashFunction.BuzHash.BuzHash_Implementation.CShift" name="Data.HashFunction.BuzHash.BuzHash_Implementation.CShift">
+<area shape="rect" id="Node000001" title=" " alt="" coords="332,137,544,180"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_buz_hash_1_1_buz_hash___implementation_1_1_block_transformer__16_bit.html#a7b7417786e2e8011f07d8bf84e5ba87b" title=" " alt="" coords="5,5,284,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="387,132,337,104,283,78,252,67,254,62,285,74,340,99,390,127"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_buz_hash_1_1_buz_hash___implementation_1_1_block_transformer__32_bit.html#ac5e68020003dcc531ae26c33b8a09b61" title=" " alt="" coords="5,88,284,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="316,144,284,140,285,134,317,139"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1_buz_hash_1_1_buz_hash___implementation_1_1_block_transformer__64_bit.html#a5eff472dd4584e86397c7107acd5113a" title=" " alt="" coords="5,171,284,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="317,178,285,183,284,178,316,173"/>
+<area shape="rect" id="Node000005" href="$class_data_1_1_hash_function_1_1_buz_hash_1_1_buz_hash___implementation_1_1_block_transformer__8_bit.html#a38975ae0213a64f1e00ecbe537aabe69" title=" " alt="" coords="5,253,284,312"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="390,190,340,218,285,244,254,255,252,250,283,239,337,213,387,186"/>
+</map>

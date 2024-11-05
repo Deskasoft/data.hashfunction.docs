@@ -1,0 +1,15 @@
+<map id="Data.HashFunction.Blake3.Hasher.blake3_update_preemptive_del" name="Data.HashFunction.Blake3.Hasher.blake3_update_preemptive_del">
+<area shape="rect" id="Node000001" title=" " alt="" coords="990,80,1236,123"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#a1092f2d1065b4228fe942e2d9481222b" title=" " alt="" coords="759,80,942,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="974,104,942,104,942,99,974,99"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#aad24929c483c806315660e478d94ef46" title="Construct a new Hasher for the regular hash function." alt="" coords="529,13,711,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="760,78,696,59,697,54,761,73"/>
+<area shape="rect" id="Node000006" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#a357db3327bc95a6a6bf396129a2f1a96" title="Construct a new Hasher for the key derivation function." alt="" coords="529,80,711,123"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="744,104,712,104,712,99,744,99"/>
+<area shape="rect" id="Node000007" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#afb4cb051739f7f05d0efc0f3a76055ff" title="Construct a new Hasher for the keyed hash function." alt="" coords="529,147,711,189"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="761,130,697,149,696,143,760,125"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#aac947b8cb06612c856ce00ba6d977208" title="The default hash function." alt="" coords="299,13,481,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="514,37,482,37,482,32,514,32"/>
+<area shape="rect" id="Node000005" href="$class_data_1_1_hash_function_1_1_blake3_1_1_blake3___implementation.html#acf9fb5e2e6ac2dc31721218947dc5451" title=" " alt="" coords="5,5,251,64"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="283,37,251,37,251,32,283,32"/>
+</map>

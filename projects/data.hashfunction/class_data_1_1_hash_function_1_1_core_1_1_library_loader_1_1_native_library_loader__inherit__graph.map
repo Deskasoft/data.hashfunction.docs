@@ -1,0 +1,9 @@
+<map id="Data.HashFunction.Core.LibraryLoader.NativeLibraryLoader" name="Data.HashFunction.Core.LibraryLoader.NativeLibraryLoader">
+<area shape="rect" id="Node000001" title="Native library loader for fast native parts of some hash algorithms." alt="" coords="144,55,353,97"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_core_1_1_library_loader_1_1_native_library_loader_1_1_unix_native_library.html" title=" " alt="" coords="401,5,650,64"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="368,55,400,51,401,56,369,61"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1_core_1_1_library_loader_1_1_native_library_loader_1_1_windows_native_library.html" title=" " alt="" coords="406,88,645,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="369,91,406,97,406,102,368,97"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,63,96,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,73,143,73,143,79,111,79"/>
+</map>

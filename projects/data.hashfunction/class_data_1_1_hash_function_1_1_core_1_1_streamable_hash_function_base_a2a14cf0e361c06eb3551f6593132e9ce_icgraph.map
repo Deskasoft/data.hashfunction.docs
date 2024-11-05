@@ -1,0 +1,9 @@
+<map id="Data.HashFunction.Core.StreamableHashFunctionBase.CreateBlockTransformer" name="Data.HashFunction.Core.StreamableHashFunctionBase.CreateBlockTransformer">
+<area shape="rect" id="Node000001" title="Creates a new transformer that will process data and hold the internal state using this hash function..." alt="" coords="659,39,937,81"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_streamable_hash_function_base.html#a1bf84ad98999876fd718e409c6f9e2a4" title="Computes hash value for given stream asynchronously." alt="" coords="311,5,611,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="643,47,611,44,612,39,644,42"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1_core_1_1_streamable_hash_function_base.html#a97736c4e578d2ffa9b21d8deed3b944a" title="Computes hash value for given stream." alt="" coords="329,72,592,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="644,78,593,83,593,78,644,73"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_core_1_1_streamable_hash_function_base.html#a125d97293b383d4a51cdbe4da5309f40" title="Computes hash value for given stream asynchronously." alt="" coords="5,5,263,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="295,29,263,29,263,24,295,24"/>
+</map>

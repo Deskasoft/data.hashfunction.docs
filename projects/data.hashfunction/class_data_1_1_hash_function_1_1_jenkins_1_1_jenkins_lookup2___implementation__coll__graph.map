@@ -1,0 +1,19 @@
+<map id="Data.HashFunction.Jenkins.JenkinsLookup2_Implementation" name="Data.HashFunction.Jenkins.JenkinsLookup2_Implementation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="912,64,1123,107"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_streamable_hash_function_base.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="383,21,581,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="597,39,736,49,888,64,911,67,911,72,887,69,736,54,597,44"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_core_1_1_hash_function_base.html" title="Abstract implementation of an IHashFunction. Provides convenience checks and ensures a default HashSi..." alt="" coords="181,5,313,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,22,383,25,382,31,328,27"/>
+<area shape="rect" id="Node000004" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="5,32,112,59"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="127,33,180,25,181,31,127,38"/>
+<area shape="rect" id="Node000005" href="$interface_data_1_1_hash_function_1_1_i_streamable_hash_function.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="161,56,333,83"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="127,51,161,56,160,61,127,57"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="348,52,386,46,387,51,349,57"/>
+<area shape="rect" id="Node000007" href="$interface_data_1_1_hash_function_1_1_jenkins_1_1_i_jenkins.html" title="Implementation of Bob Jenkins&#39; One at a Time, Lookup2, or Lookup3 hash function as specified at http:..." alt="" coords="447,72,517,99"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="349,74,447,80,446,86,349,79"/>
+<area shape="rect" id="Node000006" href="$interface_data_1_1_hash_function_1_1_jenkins_1_1_i_jenkins_lookup2.html" title="Implementation of Bob Jenkins&#39; Lookup2 hash function as specified at http://burtleburtle...." alt="" coords="664,72,784,99"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="799,83,911,83,911,88,799,88"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="532,83,664,83,664,88,532,88"/>
+<area shape="rect" id="Node000008" href="$interface_data_1_1_hash_function_1_1_jenkins_1_1_i_jenkins_lookup2_config.html" title="Defines a configuration for a IJenkinsLookup2 implementation." alt="" coords="630,123,818,165"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="832,120,911,104,912,109,834,125"/>
+</map>

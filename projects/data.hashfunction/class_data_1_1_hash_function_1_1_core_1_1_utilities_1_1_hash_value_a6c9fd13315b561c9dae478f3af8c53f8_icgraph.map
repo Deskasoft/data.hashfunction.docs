@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.Core.Utilities.HashValue.CoerceToArray" name="Data.HashFunction.Core.Utilities.HashValue.CoerceToArray">
+<area shape="rect" id="Node000001" title="Coerces the given hash &#160;to a byte array with bitLength &#160;significant bits." alt="" coords="272,5,490,48"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_utilities_1_1_hash_value.html#ad8a488ceb14c667be04e03510083482d" title="Initializes a new instance of HashValue." alt="" coords="5,5,224,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,29,224,29,224,24,256,24"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Data.HashFunction.CRC.ICRC" name="Data.HashFunction.CRC.ICRC">
+<area shape="rect" id="Node000001" title="Implementation of the cyclic redundancy check error&#45;detecting code as defined at http://en...." alt="" coords="5,155,212,181"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1_c_r_c_1_1_c_r_c___implementation.html" title=" " alt="" coords="7,229,210,272"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="111,197,111,229,106,229,106,197"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_i_streamable_hash_function.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="22,80,195,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,122,111,154,106,154,106,122"/>
+<area shape="rect" id="Node000003" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="55,5,162,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,48,111,80,106,80,106,48"/>
+</map>

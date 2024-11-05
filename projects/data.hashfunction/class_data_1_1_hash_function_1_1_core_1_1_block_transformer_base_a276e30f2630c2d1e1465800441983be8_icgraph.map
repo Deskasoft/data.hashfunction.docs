@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.Core.BlockTransformerBase.TransformBytesInternal" name="Data.HashFunction.Core.BlockTransformerBase.TransformBytesInternal">
+<area shape="rect" id="Node000001" title="Updates the internal state of this transformer with the given data." alt="" coords="272,5,533,48"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_block_transformer_base.html#a50db099660cdbc44fda3eba21924a7ee" title="Updates the internal state of this transformer with the given data." alt="" coords="5,5,224,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,29,224,29,224,24,256,24"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.Core.LibraryLoader.NativeLibraryLoader.IsFunctionAvailable" name="Data.HashFunction.Core.LibraryLoader.NativeLibraryLoader.IsFunctionAvailable">
+<area shape="rect" id="Node000001" title="Checks whether the given function exists in the currently loaded library or not." alt="" coords="5,5,251,64"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_library_loader_1_1_native_library_loader.html#ae43e52670bcb4804edc00b9d59e171f8" title="Tries to load a function with the given name." alt="" coords="299,13,561,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="251,32,283,32,283,37,251,37"/>
+</map>

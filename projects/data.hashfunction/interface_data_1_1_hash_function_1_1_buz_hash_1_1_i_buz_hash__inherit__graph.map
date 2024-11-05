@@ -1,0 +1,9 @@
+<map id="Data.HashFunction.BuzHash.IBuzHash" name="Data.HashFunction.BuzHash.IBuzHash">
+<area shape="rect" id="Node000001" title="Implementation of BuzHash as specified at http://www.serve.net/buz/hash.adt/java.002...." alt="" coords="5,155,202,197"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1_buz_hash_1_1_buz_hash___implementation.html" title=" " alt="" coords="5,245,202,288"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="106,213,106,245,101,245,101,213"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_i_streamable_hash_function.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="17,80,190,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,122,106,154,101,154,101,122"/>
+<area shape="rect" id="Node000003" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="50,5,157,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,48,106,80,101,80,101,48"/>
+</map>

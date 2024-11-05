@@ -1,0 +1,8 @@
+<map id="Data.HashFunction.Blake3.Hasher" name="Data.HashFunction.Blake3.Hasher">
+<area shape="rect" id="Node000001" title="An incremental hash state that can accept any number of writes." alt="" coords="5,188,188,231"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="46,5,136,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,47,99,188,93,188,89,48"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_core_1_1_library_loader_1_1_native_library_loader.html" title="Native library loader for fast native parts of some hash algorithms." alt="" coords="113,81,322,124"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="124,38,188,79,185,83,121,43"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,136,122,190,119,185,181,132"/>
+</map>

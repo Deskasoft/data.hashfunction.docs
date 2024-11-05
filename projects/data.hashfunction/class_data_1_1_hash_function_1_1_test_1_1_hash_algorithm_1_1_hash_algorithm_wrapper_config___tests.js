@@ -1,0 +1,5 @@
+var class_data_1_1_hash_function_1_1_test_1_1_hash_algorithm_1_1_hash_algorithm_wrapper_config___tests =
+[
+    [ "HashAlgorithmWrapperConfig_Clone_Works", "class_data_1_1_hash_function_1_1_test_1_1_hash_algorithm_1_1_hash_algorithm_wrapper_config___tests.html#aec52d842512359a0ce3f2931073cf31d", null ],
+    [ "HashAlgorithmWrapperConfig_Defaults_HaventChanged", "class_data_1_1_hash_function_1_1_test_1_1_hash_algorithm_1_1_hash_algorithm_wrapper_config___tests.html#a9864a7308a6a6f3be62d0828c1960e75", null ]
+];

@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.Test.Blake2.Blake2B_Implementation_Tests.Blake2B_Implementation_Config_IsCloneOfClone" name="Data.HashFunction.Test.Blake2.Blake2B_Implementation_Tests.Blake2B_Implementation_Config_IsCloneOfClone">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,277,64"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_blake2_1_1_i_blake2_b_config.html#a5f7d5972c2535acaf5942b77cfbabc8f" title="Makes a deep clone of current instance." alt="" coords="325,13,507,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,32,309,32,309,37,277,37"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Data.HashFunction.Core.BlockTransformerBase.TransformBytes" name="Data.HashFunction.Core.BlockTransformerBase.TransformBytes">
+<area shape="rect" id="Node000001" title="Updates the internal state of this transformer with the given data." alt="" coords="5,43,224,85"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_block_transformer_base.html#a276e30f2630c2d1e1465800441983be8" title="Updates the internal state of this transformer with the given data." alt="" coords="272,43,533,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,61,256,61,256,67,224,67"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_core_1_1_block_transformer_base.html#a4da19622ab80cac35c47a1849f787ecf" title="Marks this instance as corrupted and will prevent all calls on this instance from completing successf..." alt="" coords="590,5,825,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="533,45,575,40,576,45,534,51"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1_core_1_1_block_transformer_base.html#a7f58dc67f5465d73648981766c29a933" title="Updates the internal state of this transformer with the given data." alt="" coords="581,72,834,131"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="534,77,566,81,565,87,533,83"/>
+</map>

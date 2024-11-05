@@ -1,0 +1,6 @@
+<map id="Data.HashFunction.Core.StreamableHashFunctionBase.ComputeHash" name="Data.HashFunction.Core.StreamableHashFunctionBase.ComputeHash">
+<area shape="rect" id="Node000001" title="Computes hash value for given stream." alt="" coords="5,29,242,72"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_streamable_hash_function_base.html#a04477b37f934727711ece10834c39d3f" title="Computes hash value for given array segment." alt="" coords="290,29,553,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,48,274,48,274,53,242,53"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="366,29,363,19,373,10,392,5,421,3,453,5,472,11,470,16,452,10,421,8,393,10,375,15,368,21,371,28"/>
+</map>

@@ -1,0 +1,8 @@
+var namespace_data_1_1_hash_function_1_1_test_1_1_metro_hash =
+[
+    [ "MetroHash128_Implementation_Tests", "class_data_1_1_hash_function_1_1_test_1_1_metro_hash_1_1_metro_hash128___implementation___tests.html", "class_data_1_1_hash_function_1_1_test_1_1_metro_hash_1_1_metro_hash128___implementation___tests" ],
+    [ "MetroHash128Factory_Tests", "class_data_1_1_hash_function_1_1_test_1_1_metro_hash_1_1_metro_hash128_factory___tests.html", "class_data_1_1_hash_function_1_1_test_1_1_metro_hash_1_1_metro_hash128_factory___tests" ],
+    [ "MetroHash64_Implementation_Tests", "class_data_1_1_hash_function_1_1_test_1_1_metro_hash_1_1_metro_hash64___implementation___tests.html", "class_data_1_1_hash_function_1_1_test_1_1_metro_hash_1_1_metro_hash64___implementation___tests" ],
+    [ "MetroHash64Factory_Tests", "class_data_1_1_hash_function_1_1_test_1_1_metro_hash_1_1_metro_hash64_factory___tests.html", "class_data_1_1_hash_function_1_1_test_1_1_metro_hash_1_1_metro_hash64_factory___tests" ],
+    [ "MetroHashConfig_Tests", "class_data_1_1_hash_function_1_1_test_1_1_metro_hash_1_1_metro_hash_config___tests.html", "class_data_1_1_hash_function_1_1_test_1_1_metro_hash_1_1_metro_hash_config___tests" ]
+];

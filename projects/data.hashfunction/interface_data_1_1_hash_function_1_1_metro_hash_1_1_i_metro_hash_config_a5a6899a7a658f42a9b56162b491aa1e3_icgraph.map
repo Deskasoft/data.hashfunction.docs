@@ -1,0 +1,15 @@
+<map id="Data.HashFunction.MetroHash.IMetroHashConfig.Clone" name="Data.HashFunction.MetroHash.IMetroHashConfig.Clone">
+<area shape="rect" id="Node000001" title="Makes a deep clone of current instance." alt="" coords="299,248,505,291"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_metro_hash_1_1_metro_hash128___implementation.html#a93c67719ad914d4ed95157f4de7d1070" title=" " alt="" coords="8,5,248,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="380,236,357,199,327,157,291,115,249,78,230,67,233,62,252,74,295,111,332,153,362,196,384,233"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_test_1_1_metro_hash_1_1_metro_hash128___implementation___tests.html#a30d35780ca67e17200f109b2c39b71f2" title=" " alt="" coords="5,88,251,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="356,241,306,209,249,177,226,166,228,161,252,172,308,204,359,237"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1_test_1_1_metro_hash_1_1_metro_hash128___implementation___tests.html#a62b50f7550850ce8c47b8da5fd4649ce" title=" " alt="" coords="5,187,251,261"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="283,252,251,247,251,242,284,247"/>
+<area shape="rect" id="Node000005" href="$class_data_1_1_hash_function_1_1_metro_hash_1_1_metro_hash64___implementation.html#a8262fe70959d796bdd029a0a7d3a5b5b" title=" " alt="" coords="12,285,244,344"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="284,292,245,298,244,293,283,286"/>
+<area shape="rect" id="Node000006" href="$class_data_1_1_hash_function_1_1_test_1_1_metro_hash_1_1_metro_hash64___implementation___tests.html#a74140c4fac83da6521ef72243f7f9ab3" title=" " alt="" coords="9,368,247,443"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="354,301,252,358,227,370,225,365,249,354,352,297"/>
+<area shape="rect" id="Node000007" href="$class_data_1_1_hash_function_1_1_test_1_1_metro_hash_1_1_metro_hash64___implementation___tests.html#a8345a6bb85975b67022dde2cd080b2ec" title=" " alt="" coords="9,467,247,541"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="382,306,329,381,293,421,252,457,235,468,232,464,249,453,289,417,325,377,378,302"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Data.HashFunction.CRC.CRC_Implementation.BlockTransformer.ReflectBits" name="Data.HashFunction.CRC.CRC_Implementation.BlockTransformer.ReflectBits">
+<area shape="rect" id="Node000001" title=" " alt="" coords="834,27,1063,86"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_c_r_c_1_1_c_r_c___implementation_1_1_block_transformer.html#a40a89b216b573712d36a3fb042838ce0" title=" " alt="" coords="5,35,234,94"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="832,26,786,18,712,11,637,8,488,14,350,28,235,45,234,40,349,22,487,8,637,3,713,6,787,12,833,20"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_c_r_c_1_1_c_r_c___implementation_1_1_block_transformer.html#a6acc654bed023491dcbf8b6865dba204" title=" " alt="" coords="558,27,786,86"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="819,59,787,59,787,54,819,54"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1_c_r_c_1_1_c_r_c___implementation_1_1_block_transformer.html#ae42bec7a856b84c5e853176bc58da19a" title=" " alt="" coords="558,110,786,168"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="834,93,774,112,772,106,833,88"/>
+<area shape="rect" id="Node000005" href="$class_data_1_1_hash_function_1_1_c_r_c_1_1_c_r_c___implementation_1_1_block_transformer.html#a80d299434d3e0462cf71afae80448f7f" title="Calculates the data&#45;division table for the CRC parameters provided." alt="" coords="282,68,510,127"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="542,122,510,117,511,112,543,117"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="266,85,234,81,234,75,266,79"/>
+</map>

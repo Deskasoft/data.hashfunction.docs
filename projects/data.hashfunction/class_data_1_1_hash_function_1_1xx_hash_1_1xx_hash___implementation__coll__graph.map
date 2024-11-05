@@ -1,0 +1,17 @@
+<map id="Data.HashFunction.xxHash.xxHash_Implementation" name="Data.HashFunction.xxHash.xxHash_Implementation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="162,264,364,307"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_streamable_hash_function_base.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="5,165,204,192"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,198,233,261,230,266,134,203"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_core_1_1_hash_function_base.html" title="Abstract implementation of an IHashFunction. Provides convenience checks and ensures a default HashSi..." alt="" coords="21,81,153,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,123,104,164,99,165,90,124"/>
+<area shape="rect" id="Node000004" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="121,5,227,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="149,44,103,83,100,79,146,40"/>
+<area shape="rect" id="Node000005" href="$interface_data_1_1_hash_function_1_1_i_streamable_hash_function.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="177,81,349,108"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="202,40,250,79,247,83,199,44"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="227,118,130,167,127,163,224,113"/>
+<area shape="rect" id="Node000006" href="$interface_data_1_1_hash_function_1_1xx_hash_1_1_ixx_hash.html" title="Implements xxHash as specified at https://github.com/Cyan4973/xxHash/blob/dev/xxhash...." alt="" coords="228,165,298,192"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="266,123,266,165,260,165,260,123"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="266,207,266,263,260,263,260,207"/>
+<area shape="rect" id="Node000007" href="$interface_data_1_1_hash_function_1_1xx_hash_1_1_ixx_hash_config.html" title="Defines a configuration for a IxxHash implementation." alt="" coords="323,157,510,200"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="375,211,295,266,292,261,372,207"/>
+</map>

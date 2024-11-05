@@ -1,0 +1,15 @@
+<map id="Data.HashFunction.BernsteinHash.ModifiedBernsteinHash_Implementation" name="Data.HashFunction.BernsteinHash.ModifiedBernsteinHash_Implementation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="109,229,302,288"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_streamable_hash_function_base.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="5,155,204,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,190,175,227,171,231,129,194"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_core_1_1_hash_function_base.html" title="Abstract implementation of an IHashFunction. Provides convenience checks and ensures a default HashSi..." alt="" coords="38,80,171,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="107,122,107,154,102,154,102,122"/>
+<area shape="rect" id="Node000004" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="139,5,246,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="167,44,121,82,118,78,164,40"/>
+<area shape="rect" id="Node000005" href="$interface_data_1_1_hash_function_1_1_i_streamable_hash_function.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="194,80,367,107"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="221,40,267,78,264,82,218,44"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="237,115,136,156,134,152,235,111"/>
+<area shape="rect" id="Node000006" href="$interface_data_1_1_hash_function_1_1_bernstein_hash_1_1_i_modified_bernstein_hash.html" title="Implementation of Modified Bernstein hash as specified at http://www.eternallyconfuzzled...." alt="" coords="228,155,389,181"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="293,120,306,153,301,155,288,122"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="284,194,241,231,237,227,281,190"/>
+</map>

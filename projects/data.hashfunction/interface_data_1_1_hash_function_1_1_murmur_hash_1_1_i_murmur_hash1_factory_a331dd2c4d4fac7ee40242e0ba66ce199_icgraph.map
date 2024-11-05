@@ -1,0 +1,7 @@
+<map id="Data.HashFunction.MurmurHash.IMurmurHash1Factory.Create" name="Data.HashFunction.MurmurHash.IMurmurHash1Factory.Create">
+<area shape="rect" id="Node000001" title="Creates a new IMurmurHash1 instance with the default configuration." alt="" coords="323,55,551,97"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_test_1_1_murmur_hash_1_1_murmur_hash1_factory___tests.html#a9911d5a32240a4c638dd8e85af0e5fe0" title=" " alt="" coords="5,5,275,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="307,61,275,56,276,51,308,55"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_test_1_1_murmur_hash_1_1_murmur_hash1_factory___tests.html#ab5407eeed85a88cc90db6d43d9cfaf55" title=" " alt="" coords="5,88,275,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="308,97,276,101,275,96,307,91"/>
+</map>

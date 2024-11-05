@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.Test.CityHash.CityHashFactory_Tests.CityHashFactory_Create_Config_Works" name="Data.HashFunction.Test.CityHash.CityHashFactory_Tests.CityHashFactory_Create_Config_Works">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,237,64"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_city_hash_1_1_i_city_hash_factory.html#aa58ca6be54ced3d3ebce5c76f38e5b02" title="Creates a new ICityHash instance with the default configuration." alt="" coords="285,13,482,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,32,269,32,269,37,237,37"/>
+</map>

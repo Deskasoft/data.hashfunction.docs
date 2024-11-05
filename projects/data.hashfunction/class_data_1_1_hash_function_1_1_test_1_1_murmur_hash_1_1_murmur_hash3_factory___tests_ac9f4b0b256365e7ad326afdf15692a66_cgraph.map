@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.Test.MurmurHash.MurmurHash3Factory_Tests.MurmurHash3Factory_Create_Config_Works" name="Data.HashFunction.Test.MurmurHash.MurmurHash3Factory_Tests.MurmurHash3Factory_Create_Config_Works">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,275,64"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_murmur_hash_1_1_i_murmur_hash3_factory.html#aa70e35e9376c72fbc1c6da2a78aad8c2" title="Creates a new IMurmurHash3 instance with the default configuration." alt="" coords="323,13,551,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="275,32,307,32,307,37,275,37"/>
+</map>

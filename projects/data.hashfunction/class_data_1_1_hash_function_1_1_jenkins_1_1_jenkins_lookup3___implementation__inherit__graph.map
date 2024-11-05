@@ -1,0 +1,10 @@
+<map id="Data.HashFunction.Jenkins.JenkinsLookup3_Implementation" name="Data.HashFunction.Jenkins.JenkinsLookup3_Implementation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="40,155,252,197"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_hash_function_base.html" title="Abstract implementation of an IHashFunction. Provides convenience checks and ensures a default HashSi..." alt="" coords="5,80,138,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,116,129,153,125,156,91,120"/>
+<area shape="rect" id="Node000003" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="93,5,199,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="124,45,86,82,83,78,121,41"/>
+<area shape="rect" id="Node000004" href="$interface_data_1_1_hash_function_1_1_jenkins_1_1_i_jenkins_lookup3.html" title="Implementation of Bob Jenkins&#39; Lookup3 hash function as specified at http://burtleburtle...." alt="" coords="161,80,280,107"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="172,41,210,78,206,82,168,45"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,120,167,156,163,153,197,116"/>
+</map>

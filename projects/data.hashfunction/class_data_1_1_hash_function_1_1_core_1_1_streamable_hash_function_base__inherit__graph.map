@@ -1,0 +1,48 @@
+<map id="Data.HashFunction.Core.StreamableHashFunctionBase" name="Data.HashFunction.Core.StreamableHashFunctionBase">
+<area shape="rect" id="Node000001" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="380,505,616,548"/>
+<area shape="rect" id="Node000005" href="$class_data_1_1_hash_function_1_1_bernstein_hash_1_1_bernstein_hash___implementation.html" title=" " alt="" coords="667,5,905,48"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="499,489,509,402,520,346,535,285,556,224,584,164,619,107,663,58,678,46,682,51,666,62,623,111,588,166,561,226,540,287,525,347,514,402,504,490"/>
+<area shape="rect" id="Node000006" href="$class_data_1_1_hash_function_1_1_bernstein_hash_1_1_modified_bernstein_hash___implementation.html" title=" " alt="" coords="689,72,883,131"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="503,489,518,417,548,323,569,274,595,226,626,181,663,141,688,123,691,128,666,145,630,184,600,229,574,276,553,325,524,418,508,490"/>
+<area shape="rect" id="Node000007" href="$class_data_1_1_hash_function_1_1_blake2_1_1_blake2_b___implementation.html" title=" " alt="" coords="695,155,877,197"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="506,489,525,428,556,352,577,312,601,274,630,238,663,207,693,190,696,194,666,211,634,242,606,277,581,315,561,354,530,429,511,491"/>
+<area shape="rect" id="Node000008" href="$class_data_1_1_hash_function_1_1_buz_hash_1_1_buz_hash___implementation.html" title=" " alt="" coords="688,221,884,264"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="511,490,533,441,566,382,609,324,635,297,663,274,686,261,689,265,666,278,639,301,614,327,571,385,538,443,516,492"/>
+<area shape="rect" id="Node000009" href="$class_data_1_1_hash_function_1_1_c_r_c_1_1_c_r_c___implementation.html" title=" " alt="" coords="685,288,887,331"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="519,491,578,415,618,375,663,340,686,329,688,334,666,345,621,379,582,418,523,494"/>
+<area shape="rect" id="Node000010" href="$class_data_1_1_hash_function_1_1_e_l_f64_1_1_e_l_f64___implementation.html" title=" " alt="" coords="696,355,876,397"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="534,493,592,449,663,407,694,394,696,399,666,412,595,453,537,498"/>
+<area shape="rect" id="Node000011" href="$class_data_1_1_hash_function_1_1_f_n_v_1_1_f_n_v1_base.html" title=" " alt="" coords="670,421,902,448"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="560,496,664,457,708,446,709,451,665,463,562,501"/>
+<area shape="rect" id="Node000015" href="$class_data_1_1_hash_function_1_1_jenkins_1_1_jenkins_lookup2___implementation.html" title=" " alt="" coords="680,472,892,515"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="631,509,679,503,680,508,632,514"/>
+<area shape="rect" id="Node000016" href="$class_data_1_1_hash_function_1_1_jenkins_1_1_jenkins_one_at_a_time___implementation.html" title=" " alt="" coords="668,539,904,581"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="632,539,668,544,667,549,631,545"/>
+<area shape="rect" id="Node000017" href="$class_data_1_1_hash_function_1_1_metro_hash_1_1_metro_hash128___implementation.html" title=" " alt="" coords="683,605,889,648"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="564,552,665,591,702,602,700,607,663,596,562,557"/>
+<area shape="rect" id="Node000018" href="$class_data_1_1_hash_function_1_1_metro_hash_1_1_metro_hash64___implementation.html" title=" " alt="" coords="683,672,889,715"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="533,557,592,609,628,635,666,658,692,669,690,674,663,662,625,639,588,613,529,561"/>
+<area shape="rect" id="Node000019" href="$class_data_1_1_hash_function_1_1_murmur_hash_1_1_murmur_hash3___implementation.html" title=" " alt="" coords="669,739,903,781"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="521,560,546,599,579,643,619,687,666,724,687,736,685,740,663,729,616,691,575,646,541,602,517,563"/>
+<area shape="rect" id="Node000020" href="$class_data_1_1_hash_function_1_1_pearson_1_1_pearson___implementation.html" title=" " alt="" coords="691,805,881,848"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="514,562,536,614,568,676,612,738,637,767,666,791,692,806,689,811,663,796,634,770,607,742,564,678,531,616,509,564"/>
+<area shape="rect" id="Node000021" href="$class_data_1_1_hash_function_1_1_spooky_hash_1_1_spooky_hash_v1___implementation.html" title=" " alt="" coords="664,872,908,915"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="510,563,528,627,558,707,579,748,604,788,633,826,666,858,683,869,680,874,663,862,629,829,599,791,575,751,554,709,523,628,505,564"/>
+<area shape="rect" id="Node000022" href="$class_data_1_1_hash_function_1_1_spooky_hash_1_1_spooky_hash_v2___implementation.html" title=" " alt="" coords="664,939,908,981"/>
+<area shape="poly" id="edge22_Node000001_Node000022" title=" " alt="" coords="506,563,521,639,549,737,570,788,596,838,628,884,666,925,682,936,679,940,663,929,624,888,592,841,565,790,544,738,515,640,501,564"/>
+<area shape="rect" id="Node000023" href="$class_data_1_1_hash_function_1_1xx_hash_1_1xx_hash___implementation.html" title=" " alt="" coords="685,1005,887,1048"/>
+<area shape="poly" id="edge23_Node000001_Node000023" title=" " alt="" coords="504,563,514,651,525,707,540,766,561,828,588,887,623,943,666,991,687,1006,684,1010,663,995,619,946,584,890,556,829,535,768,520,708,509,652,499,564"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_hash_function_base.html" title="Abstract implementation of an IHashFunction. Provides convenience checks and ensures a default HashSi..." alt="" coords="180,488,312,515"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="327,507,380,512,379,517,327,512"/>
+<area shape="rect" id="Node000003" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="5,513,112,540"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,515,179,508,179,513,128,520"/>
+<area shape="rect" id="Node000004" href="$interface_data_1_1_hash_function_1_1_i_streamable_hash_function.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="160,539,332,565"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="128,533,159,538,159,543,127,539"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="347,539,379,536,380,541,348,544"/>
+<area shape="rect" id="Node000012" href="$class_data_1_1_hash_function_1_1_f_n_v_1_1_f_n_v1___implementation.html" title=" " alt="" coords="959,347,1162,389"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="871,415,907,407,982,387,983,392,908,412,872,420"/>
+<area shape="rect" id="Node000013" href="$class_data_1_1_hash_function_1_1_f_n_v_1_1_f_n_v1a___implementation.html" title=" " alt="" coords="956,413,1165,456"/>
+<area shape="poly" id="edge13_Node000011_Node000013" title=" " alt="" coords="918,432,955,432,955,437,918,437"/>
+<area shape="rect" id="Node000014" href="$class_data_1_1_hash_function_1_1_test_1_1_f_n_v_1_1_f_n_v1_base___tests_1_1_f_n_v1_impl.html" title=" " alt="" coords="962,480,1159,523"/>
+<area shape="poly" id="edge14_Node000011_Node000014" title=" " alt="" coords="872,449,908,457,983,477,982,482,907,463,871,454"/>
+</map>

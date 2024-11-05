@@ -1,0 +1,6 @@
+<map id="Data.HashFunction.FNV.FNV1aFactory.Create" name="Data.HashFunction.FNV.FNV1aFactory.Create">
+<area shape="rect" id="Node000001" title="Creates a new IFNV1a instance with the default configuration." alt="" coords="5,29,215,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="59,29,57,19,66,10,83,5,110,3,139,5,157,12,155,17,138,10,110,8,84,10,68,15,62,21,64,28"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_f_n_v_1_1_f_n_v_config.html#ad1b98ea4bd2f0c9e3b230b18723b5650" title="Gets one of the predefined configurations as defined at http://www.isthe.com/chongo/tech/comp/fnv/ind..." alt="" coords="263,29,500,72"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="215,48,247,48,247,53,215,53"/>
+</map>

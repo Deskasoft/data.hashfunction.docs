@@ -1,0 +1,6 @@
+var class_data_1_1_hash_function_1_1_bernstein_hash_1_1_modified_bernstein_hash___implementation =
+[
+    [ "BlockTransformer", "class_data_1_1_hash_function_1_1_bernstein_hash_1_1_modified_bernstein_hash___implementation_1_1_block_transformer.html", "class_data_1_1_hash_function_1_1_bernstein_hash_1_1_modified_bernstein_hash___implementation_1_1_block_transformer" ],
+    [ "CreateBlockTransformer", "class_data_1_1_hash_function_1_1_bernstein_hash_1_1_modified_bernstein_hash___implementation.html#a59c68e9166bdd0263e761a07984f986a", null ],
+    [ "HashSizeInBits", "class_data_1_1_hash_function_1_1_bernstein_hash_1_1_modified_bernstein_hash___implementation.html#ac47d5cb78a993f8cb2b4ce0cc1d9791c", null ]
+];

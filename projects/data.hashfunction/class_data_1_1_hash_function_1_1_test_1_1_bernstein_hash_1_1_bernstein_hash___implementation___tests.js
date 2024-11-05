@@ -1,0 +1,5 @@
+var class_data_1_1_hash_function_1_1_test_1_1_bernstein_hash_1_1_bernstein_hash___implementation___tests =
+[
+    [ "IStreamableHashFunction_Tests", "class_data_1_1_hash_function_1_1_test_1_1_bernstein_hash_1_1_bernstein_hash___implementation___t5a50e4d5355987adb79ee9dedb252fc7.html", "class_data_1_1_hash_function_1_1_test_1_1_bernstein_hash_1_1_bernstein_hash___implementation___t5a50e4d5355987adb79ee9dedb252fc7" ],
+    [ "BernsteinHash_Implementation_HashSizeInBits_IsSet", "class_data_1_1_hash_function_1_1_test_1_1_bernstein_hash_1_1_bernstein_hash___implementation___tests.html#a170edf898e8873c3bb1ac1105165f252", null ]
+];

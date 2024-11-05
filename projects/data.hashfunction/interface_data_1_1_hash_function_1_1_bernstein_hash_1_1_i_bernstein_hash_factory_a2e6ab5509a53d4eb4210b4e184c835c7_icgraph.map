@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.BernsteinHash.IBernsteinHashFactory.Create" name="Data.HashFunction.BernsteinHash.IBernsteinHashFactory.Create">
+<area shape="rect" id="Node000001" title="Creates a new IBernsteinHash instance with the default configuration." alt="" coords="276,21,508,64"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_test_1_1_bernstein_hash_1_1_bernstein_hash_factory___tests.html#a7195c37c4a2481949658d8b441a97fe5" title=" " alt="" coords="5,5,228,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,45,228,45,228,40,260,40"/>
+</map>

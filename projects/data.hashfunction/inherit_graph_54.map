@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$interface_data_1_1_hash_function_1_1_pearson_1_1_i_pearson_config.html" title="Defines a configuration for a IPearson implementation." alt="" coords="5,39,196,81"/>
+<area shape="rect" id="Node000001" href="$class_data_1_1_hash_function_1_1_pearson_1_1_pearson_config.html" title="Defines a configuration for a IPearson implementation." alt="" coords="244,5,434,48"/>
+<area shape="poly" id="edge155_Node000000_Node000001" title=" " alt="" coords="211,42,243,37,244,43,212,47"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_pearson_1_1_wikipedia_pearson_config.html" title="Defines a configuration for a IPearson implementation." alt="" coords="244,72,434,115"/>
+<area shape="poly" id="edge156_Node000000_Node000002" title=" " alt="" coords="212,73,244,77,243,83,211,78"/>
+</map>

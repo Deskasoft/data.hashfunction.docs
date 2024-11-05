@@ -1,0 +1,21 @@
+<map id="Data.HashFunction.FNV.FNVConfig.GetPredefinedConfig" name="Data.HashFunction.FNV.FNVConfig.GetPredefinedConfig">
+<area shape="rect" id="Node000001" title="Gets one of the predefined configurations as defined at http://www.isthe.com/chongo/tech/comp/fnv/ind..." alt="" coords="341,319,578,361"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_f_n_v_1_1_f_n_v1a_factory.html#ae46ed05cdfeb94ff7f9e6b89fc1bb922" title="Creates a new IFNV1a instance with the default configuration." alt="" coords="44,29,254,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,305,421,255,388,195,345,136,319,109,291,86,253,67,255,63,294,82,323,105,349,132,393,193,425,253,447,303"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_f_n_v_1_1_f_n_v1_factory.html#ae74592cac110db60554aeff327b357d6" title="Creates a new IFNV1 instance with the default configuration." alt="" coords="48,120,250,163"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="432,308,373,241,334,206,291,177,250,160,252,155,294,172,337,202,377,237,436,305"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1_test_1_1_f_n_v_1_1_f_n_v1a_factory___tests.html#aad6897eb5658bf8c9704cfd8ffd99ce0" title=" " alt="" coords="32,187,266,245"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="405,313,351,286,292,260,260,248,262,243,294,255,353,281,407,309"/>
+<area shape="rect" id="Node000005" href="$class_data_1_1_hash_function_1_1_test_1_1_f_n_v_1_1_f_n_v1a_factory___tests.html#af4bedff970a7092ebaef5309cc185744" title=" " alt="" coords="32,269,266,328"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="325,325,266,317,267,312,326,320"/>
+<area shape="rect" id="Node000006" href="$class_data_1_1_hash_function_1_1_test_1_1_f_n_v_1_1_f_n_v1_factory___tests.html#a5e6108a4c353c6f5f41943ee321242d3" title=" " alt="" coords="39,352,259,411"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="326,360,260,369,259,364,325,355"/>
+<area shape="rect" id="Node000007" href="$class_data_1_1_hash_function_1_1_test_1_1_f_n_v_1_1_f_n_v1_factory___tests.html#aec801218cf096ed9784b79174de2cd2f" title=" " alt="" coords="39,435,259,493"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="407,371,353,399,294,425,261,437,259,432,292,420,351,394,405,367"/>
+<area shape="rect" id="Node000008" href="$class_data_1_1_hash_function_1_1_test_1_1_f_n_v_1_1_f_n_v_config___tests.html#a911431fbcf69e887b1f31517d69db6c3" title=" " alt="" coords="5,517,293,576"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="435,375,376,442,337,478,294,508,271,519,269,514,291,503,333,473,372,439,431,372"/>
+<area shape="rect" id="Node000009" href="$class_data_1_1_hash_function_1_1_test_1_1_f_n_v_1_1_f_n_v_config___tests.html#a2f89c0dfc1563b991207e82810265310" title=" " alt="" coords="14,600,284,659"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="446,377,423,425,390,483,347,541,322,567,294,590,276,602,273,597,291,586,318,563,343,537,386,480,419,423,441,375"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="200,16,181,10,149,8,119,10,101,15,94,21,96,28,91,29,89,19,98,10,119,5,149,3,182,5,202,11"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="200,107,181,101,149,99,119,101,101,105,94,111,96,119,91,120,89,110,98,101,119,95,149,93,182,96,202,102"/>
+</map>

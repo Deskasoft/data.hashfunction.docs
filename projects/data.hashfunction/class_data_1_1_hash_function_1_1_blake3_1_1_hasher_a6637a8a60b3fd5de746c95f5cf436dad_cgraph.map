@@ -1,0 +1,7 @@
+<map id="Data.HashFunction.Blake3.Hasher.Update&lt; T &gt;" name="Data.HashFunction.Blake3.Hasher.Update&lt; T &gt;">
+<area shape="rect" id="Node000001" title="Add input data to the hash state. You can call this any number of times." alt="" coords="5,39,188,81"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#a7c57f3a450095c863371073f981dbfb3" title=" " alt="" coords="267,5,449,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,46,251,38,251,43,189,51"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_blake3_1_1_hasher.html#a5be05c84768dbde3d86ebfda4ef20bc6" title=" " alt="" coords="236,72,480,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,69,220,73,220,78,188,74"/>
+</map>

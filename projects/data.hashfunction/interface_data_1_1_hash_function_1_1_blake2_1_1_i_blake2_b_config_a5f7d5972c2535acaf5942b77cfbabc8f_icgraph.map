@@ -1,0 +1,9 @@
+<map id="Data.HashFunction.Blake2.IBlake2BConfig.Clone" name="Data.HashFunction.Blake2.IBlake2BConfig.Clone">
+<area shape="rect" id="Node000001" title="Makes a deep clone of current instance." alt="" coords="325,96,507,139"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_blake2_1_1_blake2_b___implementation.html#abb7746420663052d5e8abfe63f9494f9" title=" " alt="" coords="31,5,251,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="327,94,240,67,242,62,329,88"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_test_1_1_blake2_1_1_blake2_b___implementation___tests.html#a46566f3d5dd760e450d777a9bf4d35d2" title=" " alt="" coords="5,88,277,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="309,120,277,120,277,115,309,115"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1_test_1_1_blake2_1_1_blake2_b___implementation___tests.html#ad08126e757039c7b78ffb8ab85bf1d44" title=" " alt="" coords="16,171,266,245"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="335,147,257,173,255,168,333,142"/>
+</map>

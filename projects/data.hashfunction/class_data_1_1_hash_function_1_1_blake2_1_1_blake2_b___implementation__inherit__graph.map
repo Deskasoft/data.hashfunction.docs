@@ -1,0 +1,15 @@
+<map id="Data.HashFunction.Blake2.Blake2B_Implementation" name="Data.HashFunction.Blake2.Blake2B_Implementation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="93,229,276,272"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_streamable_hash_function_base.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="5,155,204,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,191,166,227,162,231,126,194"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_core_1_1_hash_function_base.html" title="Abstract implementation of an IHashFunction. Provides convenience checks and ensures a default HashSi..." alt="" coords="22,80,155,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,122,104,154,99,155,92,123"/>
+<area shape="rect" id="Node000004" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="123,5,230,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="151,44,105,82,102,78,148,40"/>
+<area shape="rect" id="Node000005" href="$interface_data_1_1_hash_function_1_1_i_streamable_hash_function.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="178,80,351,107"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="205,40,251,78,248,82,202,44"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="224,116,134,156,131,152,222,111"/>
+<area shape="rect" id="Node000006" href="$interface_data_1_1_hash_function_1_1_blake2_1_1_i_blake2_b.html" title="Implementation of BLAKE2b as specified at https://blake2.net/. Implementations are expected to suppor..." alt="" coords="227,155,302,181"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="267,122,267,154,262,154,262,122"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="243,194,207,231,203,227,239,191"/>
+</map>

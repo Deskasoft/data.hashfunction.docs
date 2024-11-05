@@ -1,0 +1,5 @@
+var class_data_1_1_hash_function_1_1_test_1_1_i_streamable_hash_function___test_base =
+[
+    [ "IStreamableHashFunction_ComputeHashAsync_Stream_Seekable_MatchesKnownValues", "class_data_1_1_hash_function_1_1_test_1_1_i_streamable_hash_function___test_base.html#a2d4a886402bdf0c7b593d2311e502625", null ],
+    [ "IStreamableHashFunction_ComputeHashAsync_Stream_Seekable_MatchesKnownValues_SlowStream", "class_data_1_1_hash_function_1_1_test_1_1_i_streamable_hash_function___test_base.html#a441c1614f7a3a7f60c2bf30899e9233a", null ]
+];

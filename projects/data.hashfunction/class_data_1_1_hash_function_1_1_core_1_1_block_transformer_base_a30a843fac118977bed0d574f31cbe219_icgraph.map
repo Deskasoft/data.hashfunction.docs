@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.Core.BlockTransformerBase.FinalizeHashValueInternal" name="Data.HashFunction.Core.BlockTransformerBase.FinalizeHashValueInternal">
+<area shape="rect" id="Node000001" title="Completes any finalization processing and returns the resulting IHashValue." alt="" coords="287,5,520,64"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_block_transformer_base.html#ac8846ba3bdadaa7c16b943dfc467c3e1" title="Completes any finalization processing and returns the resulting IHashValue." alt="" coords="5,13,239,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="271,37,239,37,239,32,271,32"/>
+</map>

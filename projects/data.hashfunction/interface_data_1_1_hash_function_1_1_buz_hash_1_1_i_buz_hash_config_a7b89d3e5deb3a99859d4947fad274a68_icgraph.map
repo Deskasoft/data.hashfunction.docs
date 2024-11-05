@@ -1,0 +1,7 @@
+<map id="Data.HashFunction.BuzHash.IBuzHashConfig.Clone" name="Data.HashFunction.BuzHash.IBuzHashConfig.Clone">
+<area shape="rect" id="Node000001" title="Makes a deep clone of current instance." alt="" coords="283,59,479,101"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_buz_hash_1_1_buz_hash___implementation.html#a1935acfe3939f9a5bfb2e124a6d8cb31" title=" " alt="" coords="5,5,235,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="267,63,235,57,235,52,268,58"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_test_1_1_buz_hash_1_1_buz_hash___implementation___tests.html#a8e2f82f72809b7c7589ed57e1b4e187f" title=" " alt="" coords="13,88,227,163"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="268,102,228,109,227,104,267,97"/>
+</map>

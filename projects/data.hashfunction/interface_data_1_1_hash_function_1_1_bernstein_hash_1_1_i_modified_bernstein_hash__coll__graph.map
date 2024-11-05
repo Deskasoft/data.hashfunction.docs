@@ -1,0 +1,7 @@
+<map id="Data.HashFunction.BernsteinHash.IModifiedBernsteinHash" name="Data.HashFunction.BernsteinHash.IModifiedBernsteinHash">
+<area shape="rect" id="Node000001" title="Implementation of Modified Bernstein hash as specified at http://www.eternallyconfuzzled...." alt="" coords="5,155,201,197"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_i_streamable_hash_function.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="17,80,189,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,122,106,154,100,154,100,122"/>
+<area shape="rect" id="Node000003" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="50,5,156,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,48,106,80,100,80,100,48"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Data.HashFunction.Blake3.Blake3_Implementation" name="Data.HashFunction.Blake3.Blake3_Implementation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="103,188,285,231"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_hash_function_base.html" title="Abstract implementation of an IHashFunction. Provides convenience checks and ensures a default HashSi..." alt="" coords="5,89,138,116"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,124,172,185,168,189,96,128"/>
+<area shape="rect" id="Node000003" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="78,5,185,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,46,83,90,79,87,111,43"/>
+<area shape="rect" id="Node000004" href="$interface_data_1_1_hash_function_1_1_blake3_1_1_i_blake3.html" title="Implementation of BLAKE3 as specified at https://en.wikipedia.org/wiki/BLAKE_(hash_function)#BLAKE3." alt="" coords="162,89,227,116"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="152,43,187,87,182,90,148,46"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,131,197,187,192,187,192,131"/>
+<area shape="rect" id="Node000005" href="$interface_data_1_1_hash_function_1_1_blake3_1_1_i_blake3_config.html" title="Defines a configuration for a IBlake3 implementation." alt="" coords="251,81,433,124"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="302,135,225,190,222,185,299,131"/>
+</map>

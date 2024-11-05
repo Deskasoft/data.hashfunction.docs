@@ -1,0 +1,6 @@
+var class_data_1_1_hash_function_1_1_test_1_1_i_hash_function___extensions___tests =
+[
+    [ "Sugar", "class_data_1_1_hash_function_1_1_test_1_1_i_hash_function___extensions___tests_1_1_sugar.html", "class_data_1_1_hash_function_1_1_test_1_1_i_hash_function___extensions___tests_1_1_sugar" ],
+    [ "SugarWithDesiredSize", "class_data_1_1_hash_function_1_1_test_1_1_i_hash_function___extensions___tests_1_1_sugar_with_desired_size.html", "class_data_1_1_hash_function_1_1_test_1_1_i_hash_function___extensions___tests_1_1_sugar_with_desired_size" ],
+    [ "IHashFunction_Extensions_ComputeHash_WithDesiredBits_byteArray", "class_data_1_1_hash_function_1_1_test_1_1_i_hash_function___extensions___tests.html#aab2094a13cc500baf4a77f111d639af7", null ]
+];

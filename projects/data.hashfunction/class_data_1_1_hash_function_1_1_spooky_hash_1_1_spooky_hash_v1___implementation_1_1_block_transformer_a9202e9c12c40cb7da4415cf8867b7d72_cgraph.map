@@ -1,0 +1,10 @@
+<map id="Data.HashFunction.SpookyHash.SpookyHashV1_Implementation.BlockTransformer.ComputeShortHashInternal" name="Data.HashFunction.SpookyHash.SpookyHashV1_Implementation.BlockTransformer.ComputeShortHashInternal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,292,105"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_spooky_hash_1_1_spooky_hash_v1___implementation_1_1_block_transformer.html#acb71513ac3701ef70a3ecbc860c77688" title=" " alt="" coords="340,5,587,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="292,55,324,50,325,56,293,60"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1_spooky_hash_1_1_spooky_hash_v1___implementation_1_1_block_transformer.html#a275bed4dccf1ab75e373cf69111c0a54" title=" " alt="" coords="340,88,587,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="293,92,325,96,324,102,292,97"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_spooky_hash_1_1_spooky_hash_v1___implementation_1_1_block_transformer.html#a9866bd63d99a4fb1ed7ce3d1a093f6e9" title=" " alt="" coords="635,47,882,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="588,49,620,54,619,59,587,55"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="587,97,619,93,620,98,588,103"/>
+</map>

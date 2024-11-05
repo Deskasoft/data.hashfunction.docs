@@ -1,0 +1,7 @@
+<map id="Data.HashFunction.Core.StreamableHashFunctionBase.ComputeHashAsync" name="Data.HashFunction.Core.StreamableHashFunctionBase.ComputeHashAsync">
+<area shape="rect" id="Node000001" title="Computes hash value for given stream asynchronously." alt="" coords="5,5,263,48"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_streamable_hash_function_base.html#a1bf84ad98999876fd718e409c6f9e2a4" title="Computes hash value for given stream asynchronously." alt="" coords="311,5,611,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,24,295,24,295,29,263,29"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_core_1_1_streamable_hash_function_base.html#a2a14cf0e361c06eb3551f6593132e9ce" title="Creates a new transformer that will process data and hold the internal state using this hash function..." alt="" coords="659,5,937,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="611,24,644,24,644,29,611,29"/>
+</map>

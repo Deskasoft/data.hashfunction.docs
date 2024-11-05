@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,13,69,40"/>
+<area shape="rect" id="Node000001" href="$class_data_1_1_hash_function_1_1_test_1_1___mocks_1_1_slow_async_stream.html" title="Forces async functions to actually run asynchronously by delaying the read." alt="" coords="117,5,296,48"/>
+<area shape="poly" id="edge296_Node000000_Node000001" title=" " alt="" coords="85,24,116,24,116,29,85,29"/>
+</map>

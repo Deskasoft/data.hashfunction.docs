@@ -1,0 +1,9 @@
+<map id="Data.HashFunction.MetroHash.IMetroHash128" name="Data.HashFunction.MetroHash.IMetroHash128">
+<area shape="rect" id="Node000001" title="Implementation of MetroHash128 as specified at https://github.com/jandrewrogers/MetroHash." alt="" coords="5,155,212,197"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1_metro_hash_1_1_metro_hash128___implementation.html" title=" " alt="" coords="5,245,212,288"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="111,213,111,245,106,245,106,213"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_i_streamable_hash_function.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="22,80,195,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,122,111,154,106,154,106,122"/>
+<area shape="rect" id="Node000003" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="55,5,162,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="111,48,111,80,106,80,106,48"/>
+</map>

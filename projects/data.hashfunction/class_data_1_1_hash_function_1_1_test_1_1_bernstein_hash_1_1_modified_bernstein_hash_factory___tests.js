@@ -1,0 +1,5 @@
+var class_data_1_1_hash_function_1_1_test_1_1_bernstein_hash_1_1_modified_bernstein_hash_factory___tests =
+[
+    [ "ModifiedBernsteinHashFactory_Create_Works", "class_data_1_1_hash_function_1_1_test_1_1_bernstein_hash_1_1_modified_bernstein_hash_factory___tests.html#ae6c4817889a6512e4494741dc0c2dced", null ],
+    [ "ModifiedBernsteinHashFactory_Instance_IsDefined", "class_data_1_1_hash_function_1_1_test_1_1_bernstein_hash_1_1_modified_bernstein_hash_factory___tests.html#a31c2acf3d21ce44a8ff4041f15e42f35", null ]
+];

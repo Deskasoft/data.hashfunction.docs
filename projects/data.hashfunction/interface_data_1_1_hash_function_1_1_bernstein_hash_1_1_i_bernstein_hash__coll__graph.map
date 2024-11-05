@@ -1,0 +1,7 @@
+<map id="Data.HashFunction.BernsteinHash.IBernsteinHash" name="Data.HashFunction.BernsteinHash.IBernsteinHash">
+<area shape="rect" id="Node000001" title="Implementation of Bernstein hash as specified at http://www.eternallyconfuzzled.com/tuts/algorithms/j..." alt="" coords="5,155,199,197"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_i_streamable_hash_function.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="16,80,188,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,122,105,154,99,154,99,122"/>
+<area shape="rect" id="Node000003" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="49,5,155,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,48,105,80,99,80,99,48"/>
+</map>

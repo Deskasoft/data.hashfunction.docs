@@ -1,0 +1,9 @@
+<map id="Data.HashFunction.CRC.ICRCConfig.Clone" name="Data.HashFunction.CRC.ICRCConfig.Clone">
+<area shape="rect" id="Node000001" title="Makes a deep clone of current instance." alt="" coords="316,80,564,123"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_c_r_c_1_1_c_r_c___implementation.html#a1adfa92d5f83c154f783a1d38b36de4d" title=" " alt="" coords="13,5,260,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="335,78,226,51,227,46,336,73"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_test_1_1_c_r_c_1_1_c_r_c___implementation___tests.html#a42fbaf107073dea4f1498eaccf8fa13a" title=" " alt="" coords="5,72,268,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="300,104,268,104,268,99,300,99"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1_test_1_1_c_r_c_1_1_c_r_c_config___tests.html#a777f7b8ec09ca5540ca8011efcc5cefb" title=" " alt="" coords="36,155,237,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="345,130,238,159,237,154,343,125"/>
+</map>

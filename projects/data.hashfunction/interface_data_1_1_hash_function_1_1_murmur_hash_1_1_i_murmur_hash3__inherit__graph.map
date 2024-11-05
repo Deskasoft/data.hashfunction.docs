@@ -1,0 +1,9 @@
+<map id="Data.HashFunction.MurmurHash.IMurmurHash3" name="Data.HashFunction.MurmurHash.IMurmurHash3">
+<area shape="rect" id="Node000001" title="Implementation of MurmurHash3 as specified at https://github.com/aappleby/smhasher/blob/master/src/Mu..." alt="" coords="31,155,214,197"/>
+<area shape="rect" id="Node000004" href="$class_data_1_1_hash_function_1_1_murmur_hash_1_1_murmur_hash3___implementation.html" title=" " alt="" coords="5,245,240,288"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="125,213,125,245,120,245,120,213"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_i_streamable_hash_function.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="36,80,209,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,122,125,154,120,154,120,122"/>
+<area shape="rect" id="Node000003" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="69,5,176,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,48,125,80,120,80,120,48"/>
+</map>

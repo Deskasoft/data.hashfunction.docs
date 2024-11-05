@@ -1,0 +1,7 @@
+<map id="Data.HashFunction.Pearson.IPearson" name="Data.HashFunction.Pearson.IPearson">
+<area shape="rect" id="Node000001" title="Implementation of Pearson hashing as specified at http://en.wikipedia.org/wiki/Pearson_hashing and ht..." alt="" coords="5,155,196,197"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_i_streamable_hash_function.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="14,80,187,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,122,103,154,98,154,98,122"/>
+<area shape="rect" id="Node000003" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="47,5,154,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,48,103,80,98,80,98,48"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.FarmHash.IFarmHashFingerprint32" name="Data.HashFunction.FarmHash.IFarmHashFingerprint32">
+<area shape="rect" id="Node000001" title="Implementation of FarmHash&#39;s Fingerprint32 method as specified at https://github.com/google/farmhash." alt="" coords="5,80,209,123"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="54,5,160,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,48,110,80,104,80,104,48"/>
+</map>

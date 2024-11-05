@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.Test.SpookyHash.SpookyHashV1Factory_Tests.SpookyHashV1Factory_Create_Config_Works" name="Data.HashFunction.Test.SpookyHash.SpookyHashV1Factory_Tests.SpookyHashV1Factory_Create_Config_Works">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,217,80"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_spooky_hash_1_1_i_spooky_hash_v1_factory.html#a28bdd87ee9fc6fa345c2d88bd5193c09" title="Creates a new ISpookyHashV1 instance with the default configuration." alt="" coords="265,21,502,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,40,249,40,249,45,217,45"/>
+</map>

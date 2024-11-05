@@ -1,0 +1,17 @@
+<map id="Data.HashFunction.SpookyHash.SpookyHashV2_Implementation" name="Data.HashFunction.SpookyHash.SpookyHashV2_Implementation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="675,64,918,107"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_streamable_hash_function_base.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="383,21,581,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="584,48,675,63,674,68,584,54"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_core_1_1_hash_function_base.html" title="Abstract implementation of an IHashFunction. Provides convenience checks and ensures a default HashSi..." alt="" coords="181,5,313,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,22,383,25,382,31,328,27"/>
+<area shape="rect" id="Node000004" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="5,32,112,59"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="127,33,180,25,181,31,127,38"/>
+<area shape="rect" id="Node000005" href="$interface_data_1_1_hash_function_1_1_i_streamable_hash_function.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="161,56,333,83"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="127,51,161,56,160,61,127,57"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="348,52,386,46,387,51,349,57"/>
+<area shape="rect" id="Node000006" href="$interface_data_1_1_hash_function_1_1_spooky_hash_1_1_i_spooky_hash_v2.html" title="Implements SpookyHash V2 as specified at http://burtleburtle.net/bob/hash/spooky.html." alt="" coords="424,72,540,99"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="349,74,423,79,423,84,349,79"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="556,83,674,83,674,88,556,88"/>
+<area shape="rect" id="Node000007" href="$interface_data_1_1_hash_function_1_1_spooky_hash_1_1_i_spooky_hash_config.html" title="Defines a configuration for a ISpookyHash implementation." alt="" coords="391,123,573,165"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="588,122,678,105,679,110,589,127"/>
+</map>

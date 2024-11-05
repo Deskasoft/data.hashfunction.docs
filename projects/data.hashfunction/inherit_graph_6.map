@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$interface_data_1_1_hash_function_1_1_blake3_1_1_i_blake3_config.html" title="Defines a configuration for a IBlake3 implementation." alt="" coords="5,5,188,48"/>
+<area shape="rect" id="Node000001" href="$class_data_1_1_hash_function_1_1_blake3_1_1_blake3_config.html" title="Defines a configuration for a Blake2B hash function implementation." alt="" coords="236,5,418,48"/>
+<area shape="poly" id="edge5_Node000000_Node000001" title=" " alt="" coords="203,24,235,24,235,29,203,29"/>
+</map>

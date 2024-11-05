@@ -1,0 +1,17 @@
+<map id="Data.HashFunction.CRC.CRC_Implementation" name="Data.HashFunction.CRC.CRC_Implementation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="154,248,356,291"/>
+<area shape="rect" id="Node000002" href="$class_data_1_1_hash_function_1_1_core_1_1_streamable_hash_function_base.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="5,157,204,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,190,224,245,221,250,135,195"/>
+<area shape="rect" id="Node000003" href="$class_data_1_1_hash_function_1_1_core_1_1_hash_function_base.html" title="Abstract implementation of an IHashFunction. Provides convenience checks and ensures a default HashSi..." alt="" coords="13,81,145,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,121,103,156,98,158,86,123"/>
+<area shape="rect" id="Node000004" href="$interface_data_1_1_hash_function_1_1_i_hash_function.html" title="Common interface to non&#45;cryptographic hash functions." alt="" coords="113,5,219,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="141,44,95,83,92,79,138,40"/>
+<area shape="rect" id="Node000005" href="$interface_data_1_1_hash_function_1_1_i_streamable_hash_function.html" title="Common interface to non&#45;cryptographic hash functions that can be computed over a stream of data witho..." alt="" coords="169,81,341,108"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="194,40,242,79,239,83,191,44"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="217,118,131,159,129,154,214,113"/>
+<area shape="rect" id="Node000006" href="$interface_data_1_1_hash_function_1_1_c_r_c_1_1_i_c_r_c.html" title="Implementation of the cyclic redundancy check error&#45;detecting code as defined at http://en...." alt="" coords="228,157,283,184"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="258,123,258,157,252,157,252,123"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="258,200,258,247,252,247,252,200"/>
+<area shape="rect" id="Node000007" href="$interface_data_1_1_hash_function_1_1_c_r_c_1_1_i_c_r_c_config.html" title="Defines a configuration for a ICRC implementation." alt="" coords="306,157,551,184"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="394,194,294,250,291,245,391,190"/>
+</map>

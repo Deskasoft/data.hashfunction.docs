@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.Test.MetroHash.MetroHash128Factory_Tests.MetroHash128Factory_Create_Config_Works" name="Data.HashFunction.Test.MetroHash.MetroHash128Factory_Tests.MetroHash128Factory_Create_Config_Works">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,206,80"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_metro_hash_1_1_i_metro_hash128_factory.html#afcca7eb8ba76125d41df690f71dfbae8" title="Creates a new IMetroHash128 instance with the default configuration." alt="" coords="254,21,460,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,40,238,40,238,45,206,45"/>
+</map>

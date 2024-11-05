@@ -1,0 +1,5 @@
+<map id="Data.HashFunction.Test.Blake2.Blake2BFactory_Tests.Blake2BFactory_Create_Works" name="Data.HashFunction.Test.Blake2.Blake2BFactory_Tests.Blake2BFactory_Create_Works">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,256,64"/>
+<area shape="rect" id="Node000002" href="$interface_data_1_1_hash_function_1_1_blake2_1_1_i_blake2_b_factory.html#a50d1dce6e527b098cb566d96deb147ef" title="Creates a new IBlake2B instance with the default configuration." alt="" coords="304,13,486,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,32,288,32,288,37,256,37"/>
+</map>
